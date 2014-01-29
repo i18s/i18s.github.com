@@ -22,12 +22,16 @@ h1 span {
 }
 
 p {
-  text-shadow: 0 -4px 2px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.5);
   font-size: 48px;
 }
 
 a {
   color: #999;
   text-decoration: none;
+}
+
+a.n2o {
+  color: #1ebef7;
 }
 
